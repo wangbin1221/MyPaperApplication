@@ -1,0 +1,6 @@
+ext{
+    Compile_SDK_Version = 26
+    Build_Tool_version = "26.0.2"
+    Min_SDK_Version = 19
+    Target_SDK_Version = 26
+}
