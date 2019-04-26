@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">plugin1</string>
+    <string name="app_step_1">采样</string>
 </resources>

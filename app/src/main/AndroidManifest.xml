@@ -23,6 +23,7 @@
         </activity>
         <activity android:name="com.ryg.dynamicload.DLProxyActivity"
             />
+        <activity android:name="com.ryg.dynamicload.DLBasePluginFragmentActivity"/>
     </application>
 
 </manifest>

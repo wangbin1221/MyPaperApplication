@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+    <Button
+        android:id="@+id/button_collect"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="采集数据"
+        android:layout_gravity="center"/>
+    <Button
+        android:id="@+id/button_stop"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="停止"
+        android:layout_gravity="center"/>
+    <ListView
+        android:id="@+id/lv_content"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"/>
+</LinearLayout>
